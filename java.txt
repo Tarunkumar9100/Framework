@@ -1,0 +1,21 @@
+Variable=>A variable is a reserved space or a memory location to store some sort of information may be data
+like int bool string float etc
+
+Declaration of variable = DataTypeOfvariable  variablename;
+
+Intialization of variable=  variablename=>value;
+
+DataType=>A data type indicates what sort of value or the type of data the variable can represent such:int,float,boolean,character,alphanumeric String etc
+
+1.boolean=> boolean data type is used to store true or false by using Boolean keyword
+2.integer=> integer data type is used to store numeric in the variable.An integer can store 32-bit of information and it store between -2147483648 and 2147483648 and decimal can't be stored in integer.By using int keyword.
+3.character=>character data type is used to store just one character in the variable by using char keyword.
+4.double=> double data type is used to store the decimal number by using the double keyword.
+
+Array=>an array is a type of variabe that can store multiple values and also it contains similar data type values
+
+Java-object oriented programming
+1.Access modifiers-private,protected,default and public
+2.inheritance-
+3.polymorphsim
+4.encapsulation
